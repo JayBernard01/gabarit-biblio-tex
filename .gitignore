@@ -1,0 +1,13 @@
+docs/img/**
+!*.tex
+!*.png
+!*.jpg
+!*.pdf
+
+docs/src/**
+!*.tex
+!*.bib
+!*.pdf
+
+node_modules
+yarn.lock
